@@ -1,5 +1,5 @@
 {
-  "count": 642,
+  "count": 643,
   "entries": [
     {
       "API": "Cat Facts",
@@ -3833,6 +3833,15 @@
       "HTTPS": true,
       "Cors": "unknown",
       "Link": "http://api.adviceslip.com/",
+      "Category": "Personality"
+    },
+    {
+      "API": "Bucketlist Dream of the Day",
+      "Description": "Daily experience with image and source URL; Dutch and Netherlands scope by default",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "yes",
+      "Link": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json",
       "Category": "Personality"
     },
     {
